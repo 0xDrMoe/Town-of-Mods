@@ -1,4 +1,4 @@
-# Town of Mods (ToM)
+# The Enhanced Bot (TEB)
 ## A mod for Town of Host: Enhanced
 ### By: [0xDrMoe](https://github.com/0xDrMoe)
 
@@ -52,4 +52,4 @@ Install the following before continuing to contribute to this project:
 6. The bot should now be online and you can start contributing to the project! <br><br>
 7. To test the bot, you can type `/ping` in the server and it should respond with `Pong!` <br><br>
 ---
-Copyright © Town of Host: Enhanced 2023
+Copyright © The Enhanced Network 2023

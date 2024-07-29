@@ -45,19 +45,9 @@ module.exports = {
                 .setDescription("You are not eligible to link your account. If you believe this is in error, please contact a developer.")
                 .addFields(
                     {
-                        name: "Want to become a sponsor and get access to Dev and Canary builds?",
-                        value: "Visit [our Ko-Fi page](https://ko-fi.com/tohen) to become a sponsor for as little as __**$3 a month**__!"
+                        name: "Want to become a Sponsor and get access to Alpha builds?",
+                        value: "Consider Purchasing a Package [Here](https://weareten.ca/tohe/) for as little as __**$5 a month**__! Alpha Builds are unstable but include lots of new features. Updated 2-3 times a **week**."
                     },
-                    {
-                        name: "Canary Builds - $3/month:",
-                        value: " Slightly more stable. Updated 2-3 times a **month**. [Donate Here](https://ko-fi.com/tohen/tiers#)",
-                        inline: true
-                    },
-                    {
-                        name: "Dev Builds - $5/month:",
-                        value: "Unstable but lots of features. Updated 2-3 times a **week**. [Donate Here](https://ko-fi.com/tohen/tiers#)",
-                        inline: true
-                    }
                 )
                 .setColor("#FF0000")
                 .setTimestamp()

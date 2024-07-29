@@ -97,8 +97,8 @@ module.exports = {
             .setColor(roleColor)
             .setTimestamp()
             .addFields(
-                { name: "For more information:", value: "[Check out our Website!](https://tohre.dev/Roles.html)", inline: true },
-                { name: "Want to support TOHE?", value: "[Check out our Ko-Fi!](https://ko-fi.com/tohen)", inline: true }
+                { name: "For more information:", value: "[Check out our Website!](https://tohe.weareten.ca/Roles.html)", inline: true },
+                { name: "Want to support TOHE?", value: "[Consider purchasing a Package!](https://weareten.ca/tohe/)", inline: true }
             )
             .setFooter({ text: "Town of Host: Enhanced", iconURL: "https://i.ibb.co/RvX9B3s/Yeetus-TOHE-Pic.png" });
 
